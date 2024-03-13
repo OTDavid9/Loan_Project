@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+
+
+# Packages
+__pycache__/
+
+# app.py
+oop.py
+oop2.py
